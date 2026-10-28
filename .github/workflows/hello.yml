@@ -5,4 +5,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Say Hello
-        run: echo "Hello! My first GitHub Actions workflow is running."
+        run: echo "I am learning DevOps automation!"
